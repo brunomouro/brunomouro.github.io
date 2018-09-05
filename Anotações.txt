@@ -1,0 +1,9 @@
+//fonte imagem da logo
+
+http://blog.dankicode.com/como-ser-um-bom-programador/
+
+//links fonte
+
+<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+
+font-family: 'Roboto', sans-serif;
